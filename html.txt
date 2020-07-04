@@ -3,6 +3,7 @@
 		<title>Mi página de ejemplo</title>
 	</head>
 	<body>
-	Aquí va el contenido
+	hola
+hola
 	</body>
 </html>
